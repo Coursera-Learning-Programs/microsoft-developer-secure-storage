@@ -1,0 +1,117 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="_6XGfXGDHqnx" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">Implementing Secure Data Storage</langstring>
+        </title>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="Implementing_Secure_Data_Storage_ORG">
+    <organization identifier="Implementing_Secure_Data_Storage_ORG">
+      <title>Implementing Secure Data Storage</title>
+      <item identifier="Protecting_a_device_with_Malwarebytes_SCO" isvisible="true" identifierref="__6XGfXGDHqnx_RES">
+        <title>Implementing Secure Data Storage</title>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__6XGfXGDHqnx_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="mobile/6C1O6MoB7Lr.png" />
+      <file href="mobile/6D2hGkZOG0F.png" />
+      <file href="mobile/6YthyhLodgv.png" />
+      <file href="mobile/5miSFErAHtD.png" />
+      <file href="mobile/5k6DUvzrpRy.png" />
+      <file href="mobile/6cINuA2dtPr.png" />
+      <file href="mobile/6XhP3kU9zWL.png" />
+      <file href="meta.xml" />
+      <file href="story_content/triggers.js" />
+      <file href="story_content/user.js" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/5nyHw4a8mYb.js" />
+      <file href="html5/data/js/5VmJmWMf8Et.js" />
+      <file href="html5/data/js/5yEZxUwQAWS.js" />
+      <file href="html5/data/js/62SGTLIy11P.js" />
+      <file href="html5/data/js/646NHIxn3Gu.js" />
+      <file href="html5/data/js/681quUYOuQT.js" />
+      <file href="html5/data/js/68rgi8tvP6J.js" />
+      <file href="html5/data/js/6A64SzLfzBM.js" />
+      <file href="html5/data/js/6AF9o969UjD.js" />
+      <file href="html5/data/js/6bRq3wIsEhX.js" />
+      <file href="html5/data/js/6HppWrprivQ.js" />
+      <file href="html5/data/js/6hrTk23byvD.js" />
+      <file href="html5/data/js/6ihOQy3FK4f.js" />
+      <file href="html5/data/js/6jnePCj0x9e.js" />
+      <file href="html5/data/js/6PyQrtDuGyH.js" />
+      <file href="html5/data/js/6SVBJsdcSRf.js" />
+      <file href="html5/data/js/6Ue22xWBjtJ.js" />
+      <file href="html5/data/js/6YKhH0xGfiW.js" />
+      <file href="html5/data/js/6YloPB5DYfJ.js" />
+      <file href="html5/data/js/6ZcKpFJpVoj.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/scripts/bootstrapper.min.js" />
+      <file href="html5/lib/scripts/frame.desktop.min.js" />
+      <file href="html5/lib/scripts/frame.mobile.min.js" />
+      <file href="html5/lib/scripts/slides.min.js" />
+      <file href="html5/lib/stylesheets/desktop.min.css" />
+      <file href="html5/lib/stylesheets/mobile.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="analytics-frame.html" />
+      <file href="story.html" />
+      <file href="index_lms.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/scormdriver.js" />
+    </resource>
+  </resources>
+</manifest>
